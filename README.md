@@ -6,7 +6,7 @@ VS Code Python Tutorial:  https://code.visualstudio.com/docs/python/python-tutor
 This repository will contain my source for solving each daily puzzle released in the 2021 Advent Of Code challenge.  Source will be organized by day into independent solutions. My language of choice for this challenge will be python.
 
 ## Puzzles
-1. Day 1 - How many measurements are larger than the previous measurement?
+1. Day 1 - How many times is the value larger than its predecessor? / How many times is the sum of three consecutive values greater than the prior sum of three consecutive values?
 2. Day 2 - 
 3. Day 3 - 
 4. Day 4 - 
