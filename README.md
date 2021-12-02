@@ -9,7 +9,9 @@ This repository will contain my source for solving each daily puzzle released in
 1. Day 1
     1. Part 1: How many times is the value larger than its predecessor?
     2. Part 2: How many times is the sum of three consecutive values greater than the prior sum of three consecutive values?
-2. Day 2 - 
+2. Day 2
+    1. Part 1: What is the product of depth and position?
+    2. Part 2: What is the product of depth and position while using aim?
 3. Day 3 - 
 4. Day 4 - 
 5. Day 5 - 
