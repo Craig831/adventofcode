@@ -13,6 +13,8 @@ This repository will contain my source for solving each daily puzzle released in
     1. Part 1: What is the product of depth and position?
     2. Part 2: What is the product of depth and position while using aim?
 3. Day 3 - 
+    1. Part 1: What is the power consumption of the submarine?
+    2. Part 2: What is the life support rating of the submarine?
 4. Day 4 - 
 5. Day 5 - 
 6. Day 6 - 
